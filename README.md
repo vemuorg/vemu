@@ -1,4 +1,4 @@
 # vemu
 First work doing
-sucessfully done
+sucessful
 congrats
